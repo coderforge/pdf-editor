@@ -20,7 +20,7 @@ A robust and simple Python script to merge multiple PDF files into a single docu
 2.  Install the required Python dependency by running the following command in your terminal:
 
     ```bash
-    pip install pypdf
+    pip install pypdf tkinterdnd2
     ```
 
 ## Usage
@@ -30,9 +30,9 @@ Use the UI or CLI:
 ### CLI
 
 ```bash
-
 python pdf_joiner.py <output_filename.pdf> <input_file1.pdf> <input_file2.pdf> ...
-
+```
 ### UI
 
 <img width="917" height="815" alt="image" src="https://github.com/user-attachments/assets/c500eb87-9627-47dc-ab93-12ae47bc20a0" />
+
