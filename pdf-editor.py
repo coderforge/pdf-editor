@@ -98,7 +98,7 @@ class PDFMergerApp(TkinterDnD.Tk):
     def __init__(self):
         super().__init__()
         
-        self.title("CoderForge PDF Merger")
+        self.title("CoderForge.org - PDF Merger")
         self.geometry("600x500")
         self.configure(bg="#f0f0f0")
 
