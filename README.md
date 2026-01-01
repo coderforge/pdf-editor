@@ -1,4 +1,4 @@
-# PDF Joiner
+# PDF Editor
 
 A robust and simple Python script to merge multiple PDF files into a single document using the `pypdf` library.
 
@@ -25,9 +25,14 @@ A robust and simple Python script to merge multiple PDF files into a single docu
 
 ## Usage
 
-Open your terminal or command prompt and navigate to the folder containing the script. Run the script using the following syntax:
+Use the UI or CLI:
 
-### Syntax
+### CLI
 
 ```bash
+
 python pdf_joiner.py <output_filename.pdf> <input_file1.pdf> <input_file2.pdf> ...
+
+### UI
+
+<img width="917" height="815" alt="image" src="https://github.com/user-attachments/assets/c500eb87-9627-47dc-ab93-12ae47bc20a0" />
